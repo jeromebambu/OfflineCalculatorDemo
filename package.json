@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "phin": "^2.9.0",
+    "axios": "^0.18.0",
     "realm": "2.2.15"
   }
 }
